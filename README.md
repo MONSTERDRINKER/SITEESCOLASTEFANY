@@ -1,2 +1,2 @@
 # SITEESCOLASTEFANY
-ng pra escola fodasse caralh
+ngc pra escola fodase caralh
