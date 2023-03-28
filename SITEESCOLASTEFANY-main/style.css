@@ -6,16 +6,30 @@ body{
 }
 
 .cabecalho-imagem{
-    width: 50%;
+    width: 40%;
 }
+
 
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     padding: 24px 0;
+    font-size: 24px;
 }
 
 * {
     margin: 0;
     padding: 0;
+}
+
+.imagem-escola {
+    width: 20%
+}
+
+.about {
+    color: #7a0707;
+}
+
+.cabecalho-lista-item{
+    color: #7a0707;
 }
